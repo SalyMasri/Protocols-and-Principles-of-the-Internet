@@ -1,0 +1,467 @@
+;
+; Start view _default
+;
+;
+; Zone dump of 'EMPTY.AS112.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of 'HOME.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '0.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '10.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '100.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '101.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '102.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '103.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '104.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '105.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '106.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '107.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '108.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '109.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '110.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '111.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '112.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '113.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '114.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '115.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '116.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '117.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '118.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '119.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '120.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '121.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '122.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '123.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '124.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '125.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '126.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '127.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '64.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '65.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '66.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '67.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '68.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '69.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '70.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '71.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '72.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '73.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '74.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '75.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '76.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '77.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '78.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '79.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '80.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '81.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '82.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '83.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '84.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '85.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '86.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '87.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '88.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '89.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '90.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '91.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '92.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '93.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '94.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '95.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '96.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '97.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '98.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '99.100.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '127.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '254.169.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '16.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '17.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '18.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '19.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '20.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '21.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '22.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '23.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '24.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '25.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '26.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '27.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '28.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '29.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '30.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '31.172.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '2.0.192.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '168.192.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '100.51.198.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '113.0.203.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '255.255.255.255.IN-ADDR.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '8.B.D.0.1.0.0.2.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of 'D.F.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '8.E.F.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of '9.E.F.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of 'A.E.F.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of 'B.E.F.IP6.ARPA/IN'
+;
+; not implemented
+;
+; Zone dump of 'greenworld37.ik2218.ssvl.kth.se/IN'
+;
+greenworld37.ik2218.ssvl.kth.se.	      60 IN SOA		ns.greenworld37.ik2218.ssvl.kth.se. greenworld37.kth.se.greenworld37.ik2218.ssvl.kth.se. 2 604800 86400 2419200 86400
+greenworld37.ik2218.ssvl.kth.se.	      60 IN NS		ns.greenworld37.ik2218.ssvl.kth.se.
+greenworld37.ik2218.ssvl.kth.se.	      60 IN NS		ns2.greenworld37.ik2218.ssvl.kth.se.
+china.greenworld37.ik2218.ssvl.kth.se.	      60 IN A		55.56.57.58
+ns.greenworld37.ik2218.ssvl.kth.se.	      60 IN A		192.16.125.106
+ns2.greenworld37.ik2218.ssvl.kth.se.	      60 IN A		192.16.127.37
+russia.greenworld37.ik2218.ssvl.kth.se.	      60 IN A		99.98.97.96
+themessage.greenworld37.ik2218.ssvl.kth.se.   60 IN TXT		"Plant more trees!"
+;
+; Zone dump of 'group37.ik2218.ssvl.kth.se/IN'
+;
+group37.ik2218.ssvl.kth.se.		      300 IN SOA	ns.group37.ik2218.ssvl.kth.se. hostmaster.group37.ik2218.ssvl.kth.se. 20240930 3600 1800 1209600 300
+group37.ik2218.ssvl.kth.se.		      300 IN NS		ns.group37.ik2218.ssvl.kth.se.
+group37.ik2218.ssvl.kth.se.		      300 IN NS		ns2.group37.ik2218.ssvl.kth.se.
+group37.ik2218.ssvl.kth.se.		      300 IN A		192.16.127.37
+america.group37.ik2218.ssvl.kth.se.	      300 IN A		192.16.125.106
+ns.group37.ik2218.ssvl.kth.se.		      300 IN A		192.16.127.37
+ns2.group37.ik2218.ssvl.kth.se.		      300 IN A		192.16.125.106
+;
+; Zone dump of 'america.group37.ik2218.ssvl.kth.se/IN'
+;
+america.group37.ik2218.ssvl.kth.se.	      300 IN SOA	ns.america.group37.ik2218.ssvl.kth.se. hostmaster.america.group37.ik2218.ssvl.kth.se. 202409261 3600 1800 1209600 300
+america.group37.ik2218.ssvl.kth.se.	      300 IN NS		ns.america.group37.ik2218.ssvl.kth.se.
+america.group37.ik2218.ssvl.kth.se.	      300 IN TXT	"group37 America subzone"
+brazil.america.group37.ik2218.ssvl.kth.se.    300 IN A		9.10.11.12
+canada.america.group37.ik2218.ssvl.kth.se.    300 IN TXT	"Maple syrup!"
+ns.america.group37.ik2218.ssvl.kth.se.	      300 IN A		192.16.125.106
+us.america.group37.ik2218.ssvl.kth.se.	      300 IN A		1.2.3.4
+;
+; Zone dump of 'sub.group37.ik2218.ssvl.kth.se/IN'
+;
+sub.group37.ik2218.ssvl.kth.se.		      172800 IN	SOA	ns.sub.group37.ik2218.ssvl.kth.se. hostmaster.sub.group37.ik2218.ssvl.kth.se. 20240926 10800 900 604800 86400
+sub.group37.ik2218.ssvl.kth.se.		      172800 IN	NS	ns.sub.group37.ik2218.ssvl.kth.se.
+sub.group37.ik2218.ssvl.kth.se.		      172800 IN	TXT	"group37 subzone"
+ns.sub.group37.ik2218.ssvl.kth.se.	      172800 IN	A	192.16.127.37
+;
+; Zone dump of 'emea37.thecompany.ik2218.ssvl.kth.se/IN'
+;
+emea37.thecompany.ik2218.ssvl.kth.se.	      300 IN SOA	ns.emea37.thecompany.ik2218.ssvl.kth.se. hostmaster.emea37.thecompany.ik2218.ssvl.kth.se. 202409261 3600 1800 1209600 300
+emea37.thecompany.ik2218.ssvl.kth.se.	      300 IN NS		ns.emea37.thecompany.ik2218.ssvl.kth.se.
+emea37.thecompany.ik2218.ssvl.kth.se.	      300 IN TXT	"YES, DEST"
+ns.emea37.thecompany.ik2218.ssvl.kth.se.      300 IN A		192.16.127.37
+qatar.emea37.thecompany.ik2218.ssvl.kth.se.   300 IN A		9.10.11.12
+sweden.emea37.thecompany.ik2218.ssvl.kth.se.  300 IN A		1.2.3.4
+turkey.emea37.thecompany.ik2218.ssvl.kth.se.  300 IN A		5.6.7.8
+;
+; Start view _bind
+;
+;
+; Zone dump of 'authors.bind/CH'
+;
+; not implemented
+;
+; Zone dump of 'hostname.bind/CH'
+;
+; not implemented
+;
+; Zone dump of 'version.bind/CH'
+;
+; not implemented
+;
+; Zone dump of 'id.server/CH'
+;
+; not implemented
+; Dump complete

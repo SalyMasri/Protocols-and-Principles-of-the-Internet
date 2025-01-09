@@ -1,0 +1,58 @@
+INSTRUCTIONS
+------------
+Fill in the information below and submit this file together with your
+name server configuration files.
+
+Do not remove any parts of the existing text. Leave it as it is, and
+just fill in information about your group, and answers to the questions. 
+
+Fill in your info/answer directly on the same line after the colon, 
+start with one whitespace after the colon followed by your info/answer.
+There must be no line break, i.e., each info/answer is in a single line.
+
+GROUP INFORMATION
+-----------------
+
+Group number:
+Student name 1: Saly Al Masri
+Student name 2: Alice Wijitchakhorn
+
+SOLUTIONS TO PART 2 "Server configuration"
+------------------------------------
+
+* Section 8. Create your own zone
+
+Question 8.1: dig +trace group37.ik2218.ssvl.kth.se NS
+
+Question 8.2: SOA
+
+Question 8.3: ns.group37.ik2218.ssvl.kth.se.
+
+Question 8.4: PTR
+
+Question 8.5: ns.group37.ik2218.ssvl.kth.se.
+
+* Section 9. Subzones and delgations
+
+Question 9.1: dig +trace sub.group37.ik2218.ssvl.kth.se NS
+
+Question 9.2: 1.2.3.4
+
+Question 9.3: 9.10.11.12
+
+Question 9.4: Maple syrup!
+
+
+* Section 10. Replication - masters and slaves
+
+Question 10.1: dig @ns2.group37.ik2218.ssvl.kth.se ns.group37.ik2218.ssvl.kth.se NS
+
+Question 10.2: dig @ns2.greenworld37.ik2218.ssvl.kth.se china.greenworld37.ik2218.ssvl.kth.se. A
+
+Question 10.3: 55.56.57.58
+
+Question 10.4: dig @ns2.greenworld37.ik2218.ssvl.kth.se russia.greenworld37.ik2218.ssvl.kth.se. A
+
+Question 10.5: 99.98.97.96
+
+Question 10.6: Plant more trees!
